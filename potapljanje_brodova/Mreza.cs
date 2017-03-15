@@ -8,5 +8,6 @@ namespace potapljanje_brodova
 {
     public class Mreza
     {
+
     }
 }
